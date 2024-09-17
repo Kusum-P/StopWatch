@@ -5,6 +5,7 @@
 body{
     height: 100vh;
     background-image: url(image.png);
+    background: no repeat;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: antiquewhite;
     display: flex;
