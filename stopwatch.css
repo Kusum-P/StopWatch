@@ -4,13 +4,10 @@
 }
 body{
     height: 100vh;
-<<<<<<< HEAD
     background-image: url(image.png) ;
     background-size: 100%;
-=======
     background-image: url(image.png);
     background: no repeat;
->>>>>>> 2c696f071dcb22be4e82af393e64aa551c237912
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: antiquewhite;
     display: flex;
